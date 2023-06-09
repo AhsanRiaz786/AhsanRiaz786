@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on my projects.
-- 📫 How to reach me at Email:- ahsanriaz8000@gmail.com
+- 📫 Email:- ahsanriaz8000@gmail.com
 
 <!---
 AhsanRiaz786/AhsanRiaz786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
