@@ -101,51 +101,7 @@ class Developer:
 
 ---
 
-## 🎯 **Featured Projects**
 
-<div align="center">
-
-| 🤖 **Giraph - AI Analytics Platform** | 🚗 **Multi-Site Car Scraper** | 🔧 **RevAutoSale Backend** |
-|:---:|:---:|:---:|
-| AI-powered data visualization platform using **Gemini AI** | Desktop app scraping **10k+ daily listings** | **100k+ listings** backend system |
-| `Next.js` `React` `Node.js` `MongoDB` | `Python` `PyQt5` `Selenium` `Multi-threading` | `Django` `MySQL` `Scrapy` `REST API` |
-| [View Project →](https://github.com/AhsanRiaz786/giraph) | [View Project →](https://github.com/AhsanRiaz786/car-scraper) | [Live Site →](https://revautosale.com) |
-
-</div>
-
----
-
-## 💼 **Professional Experience**
-
-```yaml
-Current Status:
-  - 🎓 BSCS Student at NUST (Expected Sep 2027)
-  - 🏆 Top Rated Freelancer on Upwork ($4K+ earned)
-  - 💻 15+ Projects Delivered (100% Success Rate)
-  - 🚀 Software Developer Intern at Arbisoft
-
-Expertise Areas:
-  - Full-Stack Development: React, Next.js, Node.js, Django
-  - Python Automation: Web Scraping, Data Processing, Task Automation  
-  - Cloud Deployment: AWS (App Runner, EC2, S3), Docker, CI/CD
-  - Database Management: MongoDB, MySQL, PostgreSQL, Redis
-```
-
----
-
-## 🏆 **Achievements & Metrics**
-
-<div align="center">
-
-| 📈 **Freelance Success** | 🔧 **Technical Impact** | 🎯 **Performance** |
-|:---:|:---:|:---:|
-| ⭐ Top Rated on Upwork | 📊 15% Frontend Performance Boost | 🚀 100% Project Success Rate |
-| 💰 $4K+ Revenue Generated | 📱 100k+ Records Processed Daily | ⚡ <2s App Loading Time |
-| 🎯 15+ Projects Completed | 🤖 AI Integration Specialist | 🔄 Automated 10k+ Daily Tasks |
-
-</div>
-
----
 
 ## 📫 **Let's Connect**
 
