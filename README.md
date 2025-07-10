@@ -125,35 +125,6 @@ class Developer:
 
 ---
 
-
-
-## 📫 **Let's Connect**
-
-<div align="center">
-
-```typescript
-interface ContactInfo {
-  email: "ahsanriaz8000@gmail.com";
-  location: "Islamabad, Pakistan";
-  availability: "Open to opportunities";
-  response_time: "< 24 hours";
-  languages: ["English", "Urdu"];
-}
-
-// Always open to discussing:
-const interests = [
-  "Full-Stack Development Projects",
-  "Python Automation Solutions", 
-  "Web Scraping & Data Extraction",
-  "Cloud Architecture & DevOps",
-  "AI/ML Integration"
-];
-```
-
-**📞 +92 3040949380** | **✉️ ahsanriaz8000@gmail.com**
-
-</div>
-
 ---
 
 <div align="center">
