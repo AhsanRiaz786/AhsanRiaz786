@@ -14,27 +14,28 @@
 
 ---
 
-## 🚀 **About**
+## 🚀 **About Me**
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Ahsan Riaz"
-        self.role = "Full-Stack Developer & Automation Specialist"
-        self.education = "BSCS @ NUST"
-        self.location = "Islamabad, Pakistan"
-        self.graduation = "Expected Sep 2027"
-        
-    def get_specialties(self):
-        return [
-            "Full-Stack Web Development",
-            "Python Web Scraping & Automation", 
-            "Data Extraction & Processing",
-            "Cloud Deployment & DevOps"
-        ]
-    
-    def current_status(self):
-        return "Building scalable solutions & Available for hire"
+```bash
+$ ahsan --info
+
+> Name:     Ahsan Riaz
+> Title:    Full-Stack Developer & Python Automation Expert
+> Location: Islamabad, Pakistan
+> Education:  BSCS @ NUST (Class of 2027)
+
+$ ahsan --skills
+
+> Core Competencies:
+>   - 💻 Full-Stack Engineering (React, Next.js, Node.js, Django)
+>   - 🤖 Advanced Web Scraping & Automation (Selenium, Scrapy, Playwright)
+>   - ☁️ Cloud & DevOps (AWS, Docker, GitHub Actions, NGINX)
+>   - 💾 Data Management (ETL, Processing, SQL/NoSQL)
+
+$ ahsan --status
+
+> 🚀 Actively building end-to-end solutions and seeking new challenges.
+> 💡 Open to freelance projects and full-time opportunities.
 ```
 
 ---
