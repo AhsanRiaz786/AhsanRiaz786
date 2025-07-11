@@ -100,7 +100,7 @@ class Developer:
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhsanRiaz786&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AhsanRiaz786)](https://git.io/streak-stats)
 
 </td>
 </tr>
