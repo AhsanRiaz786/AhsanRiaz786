@@ -91,35 +91,10 @@ class Developer:
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhsanRiaz786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhsanRiaz786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats-lrj0sh7ol-ahsanriaz786s-projects.vercel.app/?user=AhsanRiaz786&theme=dark&hide_border=true">
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanRiaz786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=AhsanRiaz786" alt="Top Languages" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhsanRiaz786&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-
-</td>
-</tr>
-</table>
+![GitHub Streak](https://streak-stats.demolab.com/?user=AhsanRiaz786&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanRiaz786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
