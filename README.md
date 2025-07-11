@@ -100,7 +100,7 @@ class Developer:
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats-lrj0sh7ol-ahsanriaz786s-projects.vercel.app/?user=AhsanRiaz786&theme=dark&hide_border=true" 
+<img src="https://github-readme-streak-stats-lrj0sh7ol-ahsanriaz786s-projects.vercel.app/?user=AhsanRiaz786&theme=dark&hide_border=true">
 
 </td>
 </tr>
