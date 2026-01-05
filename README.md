@@ -110,7 +110,7 @@ class Developer:
 <tr>
 <td width="40%">
 
-<img src="https://github-readme-stats-git-main-ahsanriaz786s-projects.vercel.app/api/top-langs/?username=AhsanRiaz786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=AhsanRiaz786" alt="Top Languages" />
+<img src="https://github-readme-stats-git-main-ahsanriaz786s-projects.vercel.app/top-langs/?username=AhsanRiaz786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=AhsanRiaz786" alt="Top Languages" />
 
 </td>
 
