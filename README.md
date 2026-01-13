@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+Automation+Expert;Top+Rated+Upwork+Freelancer;NUST+Computer+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+Automation+Engineer;Top+Rated+Upwork+Freelancer;NUST+Computer+Science" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 **About Me**
+## **About Me**
 
 ```python
 class Developer:
@@ -85,48 +85,4 @@ class Developer:
 
 </div>
 
----
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats-git-main-ahsanriaz786s-projects.vercel.app/api?username=AhsanRiaz786&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-main-ahsanriaz786s-projects.vercel.app?user=AhsanRiaz786&theme=tokyonight&border_radius=6" alt="GitHub Streak" /></a>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="40%">
-
-<img src="https://github-readme-stats-git-main-ahsanriaz786s-projects.vercel.app/top-langs/?username=AhsanRiaz786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=AhsanRiaz786" alt="Top Languages" />
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhsanRiaz786&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <sub>💡 <strong>Currently available for freelance projects and full-time opportunities</strong></sub>
-</div>
