@@ -1,88 +1,100 @@
-<!-- Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+Automation+Engineer;Top+Rated+Upwork+Freelancer;NUST+Computer+Science" alt="Typing SVG" />
+  <img src="./assets/header.svg" alt="Ahsan Riaz Engineering Mixtape, Side A 2026" width="100%" />
 </div>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-riaz-1254992a3/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d4988598a9368ee5)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanriaz8000@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.riaz.live)
+<br />
 
+<div align="center">
+  <img src="./assets/waveform.svg" alt="Monochrome waveform divider" width="100%" />
 </div>
 
----
+## LINER NOTES
 
-## **About Me**
+I build automation-first software systems: AI workflows, scalable web apps, scraping pipelines, and backend infrastructure that can survive real users, messy data, and client pressure.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Ahsan Riaz"
-        self.role = "Full-Stack Developer & Automation Specialist"
-        self.education = "BSCS @ NUST"
-        self.location = "Islamabad, Pakistan"
-        self.graduation = "Expected Sep 2027"
-        
-    def get_specialties(self):
-        return [
-            "Full-Stack Web Development",
-            "Python Web Scraping & Automation", 
-            "Data Extraction & Processing",
-            "Cloud Deployment & DevOps"
-        ]
-    
-    def current_status(self):
-        return "Building scalable solutions & Available for hire"
+Currently studying CS at NUST, freelancing on Upwork, and building products around AI automation, healthcare reminders, business analytics, and data extraction.
+
+This profile is not a badge wall. It is a running record of what I am learning, shipping, and sharpening.
+
+## THE SOUND
+
+```txt
+AI SYSTEMS          agents, OCR, prompt pipelines, eval loops, workflow QA
+AUTOMATION          n8n, Make, API glue, scheduled jobs, client ops systems
+FULL STACK          Next.js, React Native, Node.js, Python, PostgreSQL
+SCRAPING            Playwright, Selenium, Scrapy, BeautifulSoup, Celery
+INFRA               Docker, AWS, Vercel, NGINX, Linux, GitHub workflows
 ```
 
----
-
-## 🛠️ **Tech Stack**
+## CURRENT ROTATION
 
 <div align="center">
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### **Automation & Scraping**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+  <img src="./assets/tracklist.svg" alt="Current rotation tracklist" width="100%" />
 </div>
 
+<br />
 
+| Track | Build | Notes |
+| --- | --- | --- |
+| 01 | SehatYaad | AI cross-platform medication reminder with bilingual support, OCR, caregiver alerts, and adherence analytics |
+| 02 | Giraph | AI business analytics platform that turns CSV and Excel files into schemas, insights, and visual recommendations |
+| 03 | RevAutoSale | Car listings scraper backend for high-volume vehicle data extraction and cleanup |
+| 04 | The Sentinel | Secure C sandboxing system focused on isolation, execution control, and safer evaluation |
+
+## INSTRUMENTS
+
+```txt
+Frontend     Next.js App Router, React, React Native, Tailwind CSS, Redux, Radix UI
+Backend      Node.js, Express.js, FastAPI, Django, Flask, REST APIs, C++
+AI           OpenAI, Claude, Gemini, LangChain, LangGraph, Vapi, pgvector
+Automation   n8n, Make.com, workflow orchestration, webhook systems
+Data         PostgreSQL, Supabase, Firebase, MongoDB, Redis
+Cloud        AWS EC2, S3, Lambda, ECS/Fargate, IAM, RDS, Docker, Vercel
+Scraping     Scrapy, Selenium, Playwright, BeautifulSoup, Celery
+```
+
+## FIELD NOTES
+
+I like systems that compound:
+
+- Build once, reuse often.
+- Automate the boring path, inspect the risky path.
+- Prefer pipelines over scattered scripts.
+- Make AI useful by wrapping it in data flow, validation, and recovery.
+- Treat scraping, automation, and product UX as one connected system, not separate tricks.
+
+## SIDE A
+
+```txt
+Name        Ahsan Riaz
+Location    Faisalabad, Pakistan
+Focus       AI automation systems, scalable web apps, scraping infrastructure
+Status      CS undergrad at NUST, Class of 2027
+Freelance   Top Rated Upwork developer, 30+ projects, 100% Job Success
+```
+
+## SIDE B
+
+I am getting deeper into production-grade AI systems: agents that do useful work, workflows that are observable, and product ideas that can become SaaS instead of staying as one-off scripts.
+
+The long game is simple: build sharper systems, earn more leverage, and keep turning rough ideas into working products.
+
+<br />
+
+<div align="center">
+  <img src="./assets/cassette.svg" alt="Engineering Mixtape cassette illustration" width="82%" />
+</div>
+
+<br />
+
+## CONNECT
+
+```txt
+GitHub      github.com/AhsanRiaz786
+Email       ahsanriaz8000@gmail.com
+Upwork      AI automation systems + scalable web apps
+```
+
+<div align="center">
+  <img src="./assets/footer.svg" alt="Side A footer label" width="100%" />
+</div>
