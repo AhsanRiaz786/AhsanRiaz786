@@ -14,13 +14,11 @@ I mostly work with full-stack apps, AI integrations, n8n workflows, and data ext
 ## Stack
 
 ```txt
-Frontend    Next.js, React, React Native, Tailwind CSS
-Backend     Node.js, Express, Python, FastAPI, Django
-AI          OpenAI, Claude, Gemini, LangChain
-Automation  n8n, Make, webhooks, API integrations
-Data        PostgreSQL, Supabase, MongoDB, Redis
+Web         Next.js, React, Node.js, Python
+Automation  n8n, Make, OpenAI, webhooks
+Data        PostgreSQL, Supabase, MongoDB
 Scraping    Playwright, Selenium, Scrapy
-DevOps      AWS, Docker, Vercel, Linux
+Deploy      AWS, Docker, Vercel
 ```
 
 ## Contact
