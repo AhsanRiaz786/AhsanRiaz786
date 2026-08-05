@@ -1,34 +1,27 @@
 # Ahsan Riaz
 
-I build AI automation systems, scalable web apps, scraping pipelines, and backend infrastructure.
+CS student at NUST. I build web apps, automation workflows, and scraping systems.
 
-CS undergrad at NUST. Top Rated Upwork freelancer. Based in Faisalabad, Pakistan.
+I mostly work with full-stack apps, AI integrations, n8n workflows, and data extraction pipelines.
 
-## What I Work On
+## Work
 
-- AI automation systems that connect tools, APIs, data, and human workflows
-- Full-stack products with clean UX, reliable backends, and practical deployment paths
-- Scraping and data extraction pipelines built for messy real-world sources
-- Backend infrastructure for workflows that need to run, recover, and scale
+- Full-stack web and mobile apps
+- AI and automation workflows
+- Web scraping and data extraction
+- Backend APIs and databases
 
-## Core Stack
+## Stack
 
 ```txt
-Frontend     Next.js, React, React Native, Tailwind CSS
-Backend      Node.js, Express, Python, FastAPI, Django
-AI           OpenAI, Claude, Gemini, LangChain
-Automation   n8n, Make, webhooks, API integrations
-Data         PostgreSQL, Supabase, MongoDB, Redis
-Scraping     Playwright, Selenium, Scrapy
-Cloud        AWS, Docker, Vercel, Linux
+Frontend    Next.js, React, React Native, Tailwind CSS
+Backend     Node.js, Express, Python, FastAPI, Django
+AI          OpenAI, Claude, Gemini, LangChain
+Automation  n8n, Make, webhooks, API integrations
+Data        PostgreSQL, Supabase, MongoDB, Redis
+Scraping    Playwright, Selenium, Scrapy
+DevOps      AWS, Docker, Vercel, Linux
 ```
-
-## How I Build
-
-- Systems over one-off scripts
-- Automation with validation, retries, and recovery paths
-- Clean interfaces between data, AI, backend, and user workflows
-- Practical software that can handle real users, real clients, and messy edge cases
 
 ## Contact
 
@@ -36,4 +29,4 @@ Cloud        AWS, Docker, Vercel, Linux
 - Email: [ahsanriaz8000@gmail.com](mailto:ahsanriaz8000@gmail.com)
 - LinkedIn: [linkedin.com/in/ahsan-riaz-1254992a3](https://www.linkedin.com/in/ahsan-riaz-1254992a3/)
 - Upwork: [upwork.com/freelancers/~01d4988598a9368ee5](https://www.upwork.com/freelancers/~01d4988598a9368ee5)
-- Website: [ahsanriaz.live](https://ahsanriaz.live)
+- Portfolio: [ahsanriaz.live](https://ahsanriaz.live)
