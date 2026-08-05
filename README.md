@@ -17,8 +17,3 @@ CS student at NUST. I build full-stack apps, automation workflows, and scraping 
 - Data: PostgreSQL, Supabase, MongoDB
 - Scraping: Playwright, Selenium, Scrapy
 - Deploy: AWS, Docker, Vercel
-
-## Contact
-
-- Email: [ahsanriaz8000@gmail.com](mailto:ahsanriaz8000@gmail.com)
-- Portfolio: [ahsanriaz.live](https://ahsanriaz.live)
