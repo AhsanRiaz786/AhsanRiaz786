@@ -1,100 +1,56 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Ahsan Riaz Engineering Mixtape, Side A 2026" width="100%" />
+  <img src="./assets/header.svg" alt="Ahsan Riaz - AI Automation and Full Stack Systems" width="100%" />
 </div>
 
 <br />
 
+I build AI automation systems, scalable web apps, scraping pipelines, and backend infrastructure that turns messy workflows into reliable software.
+
+CS undergrad at NUST. Top Rated Upwork freelancer. Based in Faisalabad, Pakistan.
+
+```txt
+Focus       AI automation systems, full-stack products, scraping infrastructure
+Stack       Next.js, React Native, Node.js, Python, PostgreSQL, Supabase, AWS
+Automation  n8n, Make, OpenAI, Claude, Gemini, LangChain, LangGraph
+Style       build once, reuse often, automate the boring path
+```
+
 <div align="center">
-  <img src="./assets/waveform.svg" alt="Monochrome waveform divider" width="100%" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
 </div>
 
-## LINER NOTES
+## What I Do
 
-I build automation-first software systems: AI workflows, scalable web apps, scraping pipelines, and backend infrastructure that can survive real users, messy data, and client pressure.
+| Area | Signal |
+| --- | --- |
+| AI automation | Agents, workflow orchestration, OCR, prompt pipelines, API handoffs |
+| Full-stack apps | Next.js, React, React Native, Express, FastAPI, Django, Flask |
+| Scraping systems | Playwright, Selenium, Scrapy, BeautifulSoup, Celery |
+| Data and infra | PostgreSQL, Supabase, MongoDB, Redis, Docker, AWS, Vercel |
 
-Currently studying CS at NUST, freelancing on Upwork, and building products around AI automation, healthcare reminders, business analytics, and data extraction.
+## Operating Notes
 
-This profile is not a badge wall. It is a running record of what I am learning, shipping, and sharpening.
+- Systems over one-off scripts.
+- Automation with validation, retries, and recovery paths.
+- Clean interfaces between data, AI, backend, and user workflows.
+- Practical builds that can survive real clients, real users, and weird edge cases.
 
-## THE SOUND
-
-```txt
-AI SYSTEMS          agents, OCR, prompt pipelines, eval loops, workflow QA
-AUTOMATION          n8n, Make, API glue, scheduled jobs, client ops systems
-FULL STACK          Next.js, React Native, Node.js, Python, PostgreSQL
-SCRAPING            Playwright, Selenium, Scrapy, BeautifulSoup, Celery
-INFRA               Docker, AWS, Vercel, NGINX, Linux, GitHub workflows
-```
-
-## CURRENT ROTATION
+## Toolkit
 
 <div align="center">
-  <img src="./assets/tracklist.svg" alt="Current rotation tracklist" width="100%" />
+  <img src="./assets/toolkit.svg" alt="Toolkit: Python, TypeScript, PostgreSQL, n8n, Docker, AWS, Next.js, React Native" width="100%" />
 </div>
 
-<br />
+## Contact
 
-| Track | Build | Notes |
-| --- | --- | --- |
-| 01 | SehatYaad | AI cross-platform medication reminder with bilingual support, OCR, caregiver alerts, and adherence analytics |
-| 02 | Giraph | AI business analytics platform that turns CSV and Excel files into schemas, insights, and visual recommendations |
-| 03 | RevAutoSale | Car listings scraper backend for high-volume vehicle data extraction and cleanup |
-| 04 | The Sentinel | Secure C sandboxing system focused on isolation, execution control, and safer evaluation |
-
-## INSTRUMENTS
-
-```txt
-Frontend     Next.js App Router, React, React Native, Tailwind CSS, Redux, Radix UI
-Backend      Node.js, Express.js, FastAPI, Django, Flask, REST APIs, C++
-AI           OpenAI, Claude, Gemini, LangChain, LangGraph, Vapi, pgvector
-Automation   n8n, Make.com, workflow orchestration, webhook systems
-Data         PostgreSQL, Supabase, Firebase, MongoDB, Redis
-Cloud        AWS EC2, S3, Lambda, ECS/Fargate, IAM, RDS, Docker, Vercel
-Scraping     Scrapy, Selenium, Playwright, BeautifulSoup, Celery
-```
-
-## FIELD NOTES
-
-I like systems that compound:
-
-- Build once, reuse often.
-- Automate the boring path, inspect the risky path.
-- Prefer pipelines over scattered scripts.
-- Make AI useful by wrapping it in data flow, validation, and recovery.
-- Treat scraping, automation, and product UX as one connected system, not separate tricks.
-
-## SIDE A
-
-```txt
-Name        Ahsan Riaz
-Location    Faisalabad, Pakistan
-Focus       AI automation systems, scalable web apps, scraping infrastructure
-Status      CS undergrad at NUST, Class of 2027
-Freelance   Top Rated Upwork developer, 30+ projects, 100% Job Success
-```
-
-## SIDE B
-
-I am getting deeper into production-grade AI systems: agents that do useful work, workflows that are observable, and product ideas that can become SaaS instead of staying as one-off scripts.
-
-The long game is simple: build sharper systems, earn more leverage, and keep turning rough ideas into working products.
-
-<br />
+| Link | Where |
+| --- | --- |
+| GitHub | [github.com/AhsanRiaz786](https://github.com/AhsanRiaz786) |
+| Email | [ahsanriaz8000@gmail.com](mailto:ahsanriaz8000@gmail.com) |
+| LinkedIn | [linkedin.com/in/ahsan-riaz-1254992a3](https://www.linkedin.com/in/ahsan-riaz-1254992a3/) |
+| Upwork | [upwork.com/freelancers/~01d4988598a9368ee5](https://www.upwork.com/freelancers/~01d4988598a9368ee5) |
+| Website | [riaz.live](https://www.riaz.live) |
 
 <div align="center">
-  <img src="./assets/cassette.svg" alt="Engineering Mixtape cassette illustration" width="82%" />
-</div>
-
-<br />
-
-## CONNECT
-
-```txt
-GitHub      github.com/AhsanRiaz786
-Email       ahsanriaz8000@gmail.com
-Upwork      AI automation systems + scalable web apps
-```
-
-<div align="center">
-  <img src="./assets/footer.svg" alt="Side A footer label" width="100%" />
+  <img src="./assets/footer.svg" alt="Build systems that compound" width="100%" />
 </div>

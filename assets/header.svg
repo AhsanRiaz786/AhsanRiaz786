@@ -1,0 +1,27 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ahsan Riaz</title>
+  <desc id="desc">Simple monochrome GitHub profile header for Ahsan Riaz.</desc>
+  <defs>
+    <filter id="grain" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch" />
+      <feColorMatrix type="saturate" values="0" />
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.12" />
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" fill="#080808" />
+  <rect width="1200" height="320" filter="url(#grain)" opacity="0.85" />
+  <rect x="32" y="32" width="1136" height="256" stroke="#E8E0D2" stroke-opacity="0.78" stroke-width="2" />
+  <rect x="48" y="48" width="1104" height="224" stroke="#E8E0D2" stroke-opacity="0.18" />
+  <text x="86" y="128" fill="#E8E0D2" font-family="Courier New, monospace" font-size="30" letter-spacing="6">AHSAN RIAZ</text>
+  <text x="86" y="180" fill="#E8E0D2" font-family="Courier New, monospace" font-size="58" font-weight="700" letter-spacing="2">AI AUTOMATION + FULL STACK SYSTEMS</text>
+  <text x="90" y="232" fill="#BEB5A8" font-family="Courier New, monospace" font-size="20" letter-spacing="3">NUST CS / TOP RATED UPWORK / BUILD ONCE, REUSE OFTEN</text>
+  <g transform="translate(1010 92)" stroke="#E8E0D2" stroke-opacity="0.82">
+    <rect x="0" y="0" width="92" height="130" rx="6" />
+    <circle cx="46" cy="42" r="24" />
+    <circle cx="46" cy="42" r="8" fill="#E8E0D2" stroke="none" />
+    <path d="M18 86H74" />
+    <path d="M26 106H66" />
+  </g>
+</svg>

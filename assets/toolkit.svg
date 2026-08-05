@@ -1,0 +1,24 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Toolkit</title>
+  <desc id="desc">Toolkit labels for Ahsan Riaz: Python, TypeScript, PostgreSQL, n8n, Docker, AWS, Next.js, React Native.</desc>
+  <rect width="1200" height="220" fill="#080808" />
+  <rect x="32" y="28" width="1136" height="164" stroke="#E8E0D2" stroke-opacity="0.42" />
+  <text x="60" y="72" fill="#E8E0D2" font-family="Courier New, monospace" font-size="18" letter-spacing="4">TOOLKIT</text>
+  <g font-family="Courier New, monospace" font-size="20" fill="#E8E0D2">
+    <text x="70" y="128">Python</text>
+    <text x="216" y="128">TypeScript</text>
+    <text x="410" y="128">PostgreSQL</text>
+    <text x="622" y="128">n8n</text>
+    <text x="740" y="128">Docker</text>
+    <text x="886" y="128">AWS</text>
+    <text x="70" y="162">Next.js</text>
+    <text x="216" y="162">React Native</text>
+    <text x="410" y="162">Supabase</text>
+    <text x="622" y="162">Playwright</text>
+    <text x="886" y="162">OpenAI</text>
+  </g>
+  <g stroke="#E8E0D2" stroke-opacity="0.28">
+    <path d="M60 92H1140" />
+    <path d="M60 182H1140" />
+  </g>
+</svg>

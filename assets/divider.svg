@@ -1,0 +1,20 @@
+<svg width="1200" height="70" viewBox="0 0 1200 70" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Divider</title>
+  <rect width="1200" height="70" fill="#080808" />
+  <path d="M40 35H1160" stroke="#E8E0D2" stroke-opacity="0.22" />
+  <g stroke="#E8E0D2" stroke-width="3" stroke-linecap="round" opacity="0.86">
+    <path d="M480 35V27" />
+    <path d="M500 35V16" />
+    <path d="M520 35V45" />
+    <path d="M540 35V20" />
+    <path d="M560 35V53" />
+    <path d="M580 35V24" />
+    <path d="M600 35V12" />
+    <path d="M620 35V58" />
+    <path d="M640 35V24" />
+    <path d="M660 35V49" />
+    <path d="M680 35V18" />
+    <path d="M700 35V43" />
+    <path d="M720 35V27" />
+  </g>
+</svg>
