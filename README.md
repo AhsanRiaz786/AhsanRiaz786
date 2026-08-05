@@ -1,7 +1,5 @@
 # Ahsan Riaz
 
-CS student at NUST. I build full-stack apps, automation workflows, and scraping systems.
-
 ## Work
 
 - Full-stack web and mobile apps
