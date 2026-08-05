@@ -6,21 +6,21 @@ CS undergrad at NUST. Top Rated Upwork freelancer. Based in Faisalabad, Pakistan
 
 ## What I Work On
 
-- AI automation systems with agents, workflow orchestration, OCR, prompt pipelines, and API handoffs
-- Full-stack products with Next.js, React, React Native, Node.js, Express, FastAPI, Django, and Flask
-- Web scraping and data extraction pipelines with Playwright, Selenium, Scrapy, BeautifulSoup, and Celery
-- Data and infrastructure with PostgreSQL, Supabase, MongoDB, Redis, Docker, AWS, Vercel, and Linux
+- AI automation systems that connect tools, APIs, data, and human workflows
+- Full-stack products with clean UX, reliable backends, and practical deployment paths
+- Scraping and data extraction pipelines built for messy real-world sources
+- Backend infrastructure for workflows that need to run, recover, and scale
 
 ## Core Stack
 
 ```txt
-Frontend     Next.js, React, React Native, Tailwind CSS, Redux, Radix UI
-Backend      Node.js, Express.js, Python, FastAPI, Django, Flask
-AI           OpenAI, Claude, Gemini, LangChain, LangGraph, Vapi
-Automation   n8n, Make.com, webhooks, API integrations, scheduled workflows
-Data         PostgreSQL, Supabase, Firebase, MongoDB, Redis
-Scraping     Playwright, Selenium, Scrapy, BeautifulSoup, Celery
-Cloud        AWS, Docker, Vercel, NGINX, Linux, GitHub
+Frontend     Next.js, React, React Native, Tailwind CSS
+Backend      Node.js, Express, Python, FastAPI, Django
+AI           OpenAI, Claude, Gemini, LangChain
+Automation   n8n, Make, webhooks, API integrations
+Data         PostgreSQL, Supabase, MongoDB, Redis
+Scraping     Playwright, Selenium, Scrapy
+Cloud        AWS, Docker, Vercel, Linux
 ```
 
 ## How I Build
