@@ -13,14 +13,12 @@ I mostly work with full-stack apps, AI integrations, n8n workflows, and data ext
 
 ## Stack
 
-```txt
-Frontend    Next.js, React
-Backend     Express, FastAPI, Django
-Automation  n8n, Make, OpenAI, webhooks
-Data        PostgreSQL, Supabase, MongoDB
-Scraping    Playwright, Selenium, Scrapy
-Deploy      AWS, Docker, Vercel
-```
+- Frontend: Next.js, React
+- Backend: Express, FastAPI, Django
+- Automation: n8n, Make, OpenAI, webhooks
+- Data: PostgreSQL, Supabase, MongoDB
+- Scraping: Playwright, Selenium, Scrapy
+- Deploy: AWS, Docker, Vercel
 
 ## Contact
 
