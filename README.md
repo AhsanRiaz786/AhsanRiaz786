@@ -36,4 +36,4 @@ Cloud        AWS, Docker, Vercel, Linux
 - Email: [ahsanriaz8000@gmail.com](mailto:ahsanriaz8000@gmail.com)
 - LinkedIn: [linkedin.com/in/ahsan-riaz-1254992a3](https://www.linkedin.com/in/ahsan-riaz-1254992a3/)
 - Upwork: [upwork.com/freelancers/~01d4988598a9368ee5](https://www.upwork.com/freelancers/~01d4988598a9368ee5)
-- Website: [riaz.live](https://www.riaz.live)
+- Website: [ahsanriaz.live](https://ahsanriaz.live)
