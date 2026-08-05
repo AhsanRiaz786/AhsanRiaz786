@@ -15,7 +15,7 @@ I mostly work with full-stack apps, AI integrations, n8n workflows, and data ext
 
 ```txt
 Frontend    Next.js, React
-Backend     Node.js, Python
+Backend     Express, FastAPI, Django
 Automation  n8n, Make, OpenAI, webhooks
 Data        PostgreSQL, Supabase, MongoDB
 Scraping    Playwright, Selenium, Scrapy
